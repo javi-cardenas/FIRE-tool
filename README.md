@@ -4,6 +4,7 @@
 - SINGLE filing Status
 - Standard Deduction
 - fixed state tax rate
+- only current year (Should expand to keep the next 7 years)
 
 # FIRE Movement
 
